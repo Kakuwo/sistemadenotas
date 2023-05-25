@@ -39,3 +39,8 @@ Dia 1 -
 
 Pesquisei como integrar a linguagem C com o Excel, e descobri a biblioteca: 
 libxlsxwriter. Que me permite manipular arquivos XLSX(Excel).
+
+Dia 2 -
+
+Não vou precisar da biblioteca, tenho a saída de usar uma função própria do C.
+A "struct" e arquivos '.csv'
