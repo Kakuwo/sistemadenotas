@@ -33,8 +33,3 @@ dos alunos e suas notas sejam salvas em um arquivo excel.
 
 ● As informações deverão ser mantidas ao fechar e abrir o programa.
 
-
-Dia 2 -
-
-Não vou precisar da biblioteca, tenho a saída de usar uma função própria do C.
-A "struct" e arquivos '.csv'
