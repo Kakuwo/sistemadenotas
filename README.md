@@ -33,12 +33,6 @@ dos alunos e suas notas sejam salvas em um arquivo excel.
 
 ● As informações deverão ser mantidas ao fechar e abrir o programa.
 
-# Diário de Bordo:
-
-Dia 1 -
-
-Pesquisei como integrar a linguagem C com o Excel, e descobri a biblioteca: 
-libxlsxwriter. Que me permite manipular arquivos XLSX(Excel).
 
 Dia 2 -
 
